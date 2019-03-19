@@ -12,7 +12,7 @@ install:
    # Install ansible
    - pip install ansible
    # install galaxy role
-   - ansible-galaxy install PaloAltoNetworks.paloaltonetworks
+   - ansible-galaxy install ivanbojer.paloaltonetworks
    # instasll pep8
    - pip install pycodestyle
 
